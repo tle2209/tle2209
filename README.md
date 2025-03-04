@@ -1,16 +1,39 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on
 
-<!--
-**tle2209/tle2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+• Developing Tiny Tasks, a task management app with AI-powered productivity features using React Native, Firebase, and Google Calendar API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+• Building a Virtual Therapy Platform with integrated video calls, screen sharing, and chat features to support remote mental health services.
+
+
+• Automating medical equipment data extraction using Crawl4AI and AI-powered structured data processing.
+
+
+🤝 I’m looking to collaborate on
+
+
+• Full-time software development opportunities as I head into my senior year at Georgia State University.
+
+
+• AI-driven projects, computer vision applications, and full-stack development with React, Next.js, and Node.js.
+
+
+• Open-source contributions in AI, automation, and web development.
+
+
+🌱 I’m currently learning
+
+
+• Advancing in Deep Learning & Big Data Programming, focusing on computer vision (OpenCV, PyTorch) and LLM-powered applications.
+
+
+• Enhancing backend development skills using PostgreSQL, Supabase, and Firebase.
+
+
+• Exploring scalable cloud architectures and serverless functions.
+
+
+💻 Tech Stack:
+CSS3 Python TypeScript HTML5 JavaScript OpenCV PyTorch React Native React
