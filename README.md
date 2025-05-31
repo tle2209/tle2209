@@ -57,23 +57,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tienle2209/" target="_blank">
-    <img src="https://your-image-link.com/linkedin-icon.png" width="60" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/96/linkedin-circled.png" width="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tienlext2001@gmail.com">
-    <img src="https://your-image-link.com/gmail-icon.png" width="60" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" alt="Gmail" />
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    <a href="https://iconscout.com/icons/gmail" target="_blank">Gmail</a> by 
-    <a href="https://iconscout.com/contributors/flat-icons" target="_blank">Flat-icons.com</a> &nbsp; | &nbsp;
-    <a href="https://iconscout.com/icons/linkedin" target="_blank">LinkedIn</a> by 
-    <a href="https://iconscout.com/contributors/juraj-sedlak" target="_blank">Juraj Sedlák</a> on 
-    <a href="https://iconscout.com" target="_blank">IconScout</a>
-  </sub>
-</p>
+
 
 
 
