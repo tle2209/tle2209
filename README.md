@@ -1,3 +1,6 @@
+![Cute Coding Cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FiYTlqeGs5cWhha285b3ZiZmhsOTg3bjBpOHo3Z3k4aHpoc3FhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
+🙋‍♂️ Thank you for visiting my GitHub profile!
 ## 💫 About Me:
 🔭 I’m currently working on
 <br><br>
@@ -54,12 +57,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tienle2209/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/213885844-9fdfb2d4-72c7-42c3-a687-25f68d530cda.png" width="60" alt="LinkedIn"/>
+    <img src="https://your-image-link.com/linkedin-icon.png" width="60" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tienlext2001@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/213885846-7d0b5c8f-6819-4ebf-85b8-103cbd2215d6.png" width="60" alt="Gmail"/>
+    <img src="https://your-image-link.com/gmail-icon.png" width="60" alt="Gmail"/>
   </a>
 </p>
+
+<p align="center">
+  <sub>
+    <a href="https://iconscout.com/icons/gmail" target="_blank">Gmail</a> by 
+    <a href="https://iconscout.com/contributors/flat-icons" target="_blank">Flat-icons.com</a> &nbsp; | &nbsp;
+    <a href="https://iconscout.com/icons/linkedin" target="_blank">LinkedIn</a> by 
+    <a href="https://iconscout.com/contributors/juraj-sedlak" target="_blank">Juraj Sedlák</a> on 
+    <a href="https://iconscout.com" target="_blank">IconScout</a>
+  </sub>
+</p>
+
 
 
